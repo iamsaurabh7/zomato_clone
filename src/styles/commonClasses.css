@@ -3,8 +3,12 @@
   margin: 0px auto;
 }
 
-.absolute-center{
+.absolute-center {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.cursor-point {
+  cursor: pointer;
 }
