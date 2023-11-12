@@ -42,6 +42,7 @@ function TabOption({ activeTab, setActiveTab }) {
         {tabs.map((tab) => {
           return (
             <div
+              key={tab.id}
               className={`tab-item absolute-center cursor-point ${
                 activeTab === tab.tag && "active-tab"
               }`}
