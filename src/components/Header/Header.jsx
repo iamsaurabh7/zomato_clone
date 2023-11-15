@@ -34,7 +34,7 @@ function Header() {
             className="header-profile-image"
           />
           <span className="header-username">Saurabh</span>
-          <i className="fi fi-rr-angle-down absolute-center header-profile-option-icon"></i>
+          <i className="fi fi-rr-angle-down absolute-center header-profile-option-icon cursor-point"></i>
         </div>
       </div>
     </div>

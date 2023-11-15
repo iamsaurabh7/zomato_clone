@@ -1,0 +1,41 @@
+.popup-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--inactive-color);
+  padding: 20px;
+  border: 2px solid var(--zomato-red);
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+.popup-content {
+  position: relative;
+}
+
+.close-button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: var(--filter-hover);
+  border: 3.5px solid var(--zomato-red);
+  border-radius: 50%;
+  font-size: 16px;
+  font-weight: 1000;
+  cursor: pointer;
+  color: var(--subtitle-text);
+  padding: 9px;
+  line-height: 0.8;
+}
+
+.popup-message {
+  color: var(--subtitle-text);
+  margin-top: 15px;
+  padding-right: 30px;
+  font-size: 18px;
+  font-weight: 700;
+}

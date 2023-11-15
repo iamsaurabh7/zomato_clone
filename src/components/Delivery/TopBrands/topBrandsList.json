@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/1a985408ca7ad8fd097f2c47db9c5cb6_1611252598.png",
+    "title": "Domino's Pizza",
+    "time": "30 min"
+  },
+  {
+    "id": 2,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/9742d760cf95e9dbf9b869ca9c753f8f_1613210633.png",
+    "title": "Pizza Hut",
+    "time": "22 min"
+  },
+  {
+    "id": 3,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/f7e21286435d82037d62392994ea0104_1638685800.png",
+    "title": "Nandhana Palace",
+    "time": "19 min"
+  },
+  {
+    "id": 4,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187721.png?output-format=webp",
+    "title": "Burger King",
+    "time": "17 min"
+  },
+  {
+    "id": 5,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/3d80cb89fca9e212f7dab2c1914ebd8f_1643983621.png?output-format=webp",
+    "title": "McDonald's",
+    "time": "13 min"
+  },
+  {
+    "id": 6,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/d51c24a1a0146ecf906eb69203f2bc7e_1633503089.png",
+    "title": "BOX8 - Desi Meals",
+    "time": "25 min"
+  },
+  {
+    "id": 7,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/144bce4c7101359f0c0b54b8fc761a6f_1648017843.png",
+    "title": "La Pino'z Pizza",
+    "time": "23 min"
+  },
+  {
+    "id": 8,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/94c33b836d3921e08183130c28fc2dc9_1663140461.png",
+    "title": "Narmada Chain of Restaurants",
+    "time": "16 min"
+  },
+  {
+    "id": 9,
+    "cover": "https://b.zmtcdn.com/data/brand_creatives/logos/7e91871a40c877332641a411e7dea18b_1668319552.png",
+    "title": "Leon's Burgers & Wings",
+    "time": "30 min"
+  }
+]
